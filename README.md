@@ -1,2 +1,2 @@
 # Bem vindo ao curso de Git e Github
-Nesse curso você vai dominar github do zero ao profissional.
+Nesse curso você vai dominar **github** do zero ao _profissional_.
