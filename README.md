@@ -1,3 +1,5 @@
+![Logo do Git](https://metodoprogramar.com.br/wp-content/uploads/2020/06/Git-e-GitHub.png)
+
 # Bem vindo ao curso de Git e Github
 Nesse curso você vai dominar **github** do zero ao _profissional_.
 
@@ -15,4 +17,12 @@ Nesse curso você vai dominar **github** do zero ao _profissional_.
 2. aprendendo sobre Branch
 3. Git Avançado
 4. Usando github de forma profissional
+
+### Rede Social
+[Instagram](https://www.instagram.com/giiovannasr/)
+
+[youtube](https://www.youtube.com/@cadeachave)
+
+[linkedin](https://www.linkedin.com/in/giovanna-rocha-650575260/)
+
 
