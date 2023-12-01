@@ -25,4 +25,20 @@ Nesse curso você vai dominar **github** do zero ao _profissional_.
 
 [linkedin](https://www.linkedin.com/in/giovanna-rocha-650575260/)
 
+<!-- Blokquote -->
+> Este é um blockquote, usado para destacar alguma área.
 
+    >Segunda area
+
+# Comando para rodar o projeto
+
+```
+npm start
+```
+
+**Exemplo de uso do script**
+
+```js
+function showName(name){
+    return `Bem vindo: ${name}`;
+}
