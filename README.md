@@ -28,7 +28,7 @@ Nesse curso você vai dominar **github** do zero ao _profissional_.
 <!-- Blokquote -->
 > Este é um blockquote, usado para destacar alguma área.
 
-    >Segunda area
+>Segunda area
 
 # Comando para rodar o projeto
 
