@@ -42,3 +42,19 @@ npm start
 function showName(name){
     return `Bem vindo: ${name}`;
 }
+```
+
+**Exemplo de uso do HTML**
+
+```HTML
+<h1>
+    Titulo do projeto
+    <span>Curso Git</span>
+</h1>
+```
+Propriedade | Descrição |
+------------| ------------|
+nome | Para informar o nome do usuario|
+Size | Para definir o tamanho do campo|
+Backgroud | Cor de fundo da área em HEX|
+OnPress | Função chamada quando clicar no botão|
