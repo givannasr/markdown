@@ -1,5 +1,13 @@
 ![Logo do Git](https://metodoprogramar.com.br/wp-content/uploads/2020/06/Git-e-GitHub.png)
 
+[Bem Vindo](#bem-vindo-ao-curso-de-git-e-github)
+
+[Modulos](#modulos)
+
+[Rede Social](#rede-social)
+
+[Comando para rodar o projeto](#comando-para-rodar-o-projeto)
+
 # Bem vindo ao curso de Git e Github
 Nesse curso você vai dominar **github** do zero ao _profissional_.
 
@@ -25,7 +33,7 @@ Nesse curso você vai dominar **github** do zero ao _profissional_.
 
 [linkedin](https://www.linkedin.com/in/giovanna-rocha-650575260/)
 
-<!-- Blokquote -->
+# Blokquote
 > Este é um blockquote, usado para destacar alguma área.
 
 >Segunda area
